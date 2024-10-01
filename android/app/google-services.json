@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284314309059",
+    "project_id": "audio-50066",
+    "storage_bucket": "audio-50066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284314309059:android:1e427555797d6bbb8b6d76",
+        "android_client_info": {
+          "package_name": "com.audiofusion.audiofusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQdvxbf-P8e6MxYU1iBQviJbIK8TU6_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
